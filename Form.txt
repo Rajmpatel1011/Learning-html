@@ -23,5 +23,11 @@
    Date of Birth :
        <input type="date" name="Date of Birth" size="25"><br><br>
    <input type="Submit" name="Submit"> 
+   <select name="State">
+       <option value="Gujartat">Gujarat</option>
+       <option value="Delhi">Delhi</option>
+       <option value="Mumbai">Mumbai</option>
+       <option value="Pune">Pune</option>
+   </select>
 </body>
 </html>
