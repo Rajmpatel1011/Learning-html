@@ -28,6 +28,7 @@
        <option value="Delhi">Delhi</option>
        <option value="Mumbai">Mumbai</option>
        <option value="Pune">Pune</option>
-   </select>
+   </select> <br><br>
+   <input type="Submit" name="Submit">
 </body>
 </html>
